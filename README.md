@@ -1,2 +1,2 @@
-# Hippocampus_localization
-Hippocampus Localization Using Ensemble Hough Convolutional Neural Network
+# HippocampuslocalizationfromMRIScan
+Hippocampus Localization Using two stage Ensemble Hough Convolutional Neural Network

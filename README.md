@@ -1,4 +1,4 @@
-# Hippocampi Localization from MRI Scan
+# Hippocampus Localization from MRI Scan
 Hippocampus Localization Using two stage Ensemble Hough Convolutional Neural Network
 
 # Dataset and Method 
